@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1698084086 source:c:\users\sara\onedrive\desktop\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+	<windows.h>
+
